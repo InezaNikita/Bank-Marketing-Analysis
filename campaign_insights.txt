@@ -1,0 +1,16 @@
+# Bank Marketing Campaign Analysis – Questions & Answers
+
+1. Was the marketing campaign successful?
+Yes. The campaign achieved a 47.4% subscription rate, with about 5.87K customers subscribing to the deposit offer out of 11K total customers.
+
+2. Which age group subscribed the most?
+Customers between 30–49 years old had the highest number of subscriptions, with nearly 3K subscriptions recorded.
+
+3. Did previous campaign outcomes affect subscription success?
+Yes. Customers with previous successful campaign outcomes showed higher subscription results compared to customers with failed or other campaign outcomes.
+
+4. Which marital group subscribed the most?
+Married customers represented the largest share of subscriptions at about 52%, followed by single customers at around 36%.
+
+5. What does the subscription distribution show?
+The subscription distribution shows that 52.6% of customers subscribed to the deposit offer, while 47.3% did not subscribe.
